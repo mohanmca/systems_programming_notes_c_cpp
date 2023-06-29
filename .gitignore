@@ -1,1 +1,6 @@
-/CProgramming/CProgramming.xcodeproj/
+/CProgramming/CProgramming.xcodeproj/**
+/CProgramming/CProgramming.xcodeproj/*.*
+**/project.pbxproj
+**/*.exe
+*.exe
+bin/
